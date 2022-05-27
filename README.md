@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Jonas
-- 👀 I’m interested in Computer Science, Drums and much more.
-- 🌱 I’m currently learning a lot.
-- 📫 How to reach me: Here!
