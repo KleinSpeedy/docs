@@ -95,6 +95,7 @@ Rebase your changes on top of the remote master.
     
     git pull --rebase upstream master
 
+---
 
 ### Temporary Change Save
 
