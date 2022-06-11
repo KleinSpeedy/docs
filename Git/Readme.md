@@ -23,6 +23,10 @@ Enable some colorization of Git output.
     git config --global color.ui auto
 ---
 ### Git Branches
+Deletes a local branch.
+
+    git branch -d $branchname
+
 Gets a branch in a **remote**.
 
     git fetch origin
